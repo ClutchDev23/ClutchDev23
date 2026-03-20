@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="168" src="https://image2url.com/r2/default/images/1773977179486-8cfa5e8f-068e-487d-99dd-7ad07a74732a.blob"  />
+  <img height="140" src="http://imgfz.com/i/OQszue3.png"  />
 </div>
 
 ###
@@ -58,13 +58,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ClutchDev23&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ClutchDev23/ClutchDev23/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ClutchDev23/ClutchDev23/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ClutchDev23/ClutchDev23/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
