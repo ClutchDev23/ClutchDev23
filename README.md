@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Hubert Hilario G. from Lima, Peru.<br>- 🟢 I'm currently a Software Engineering Student, focusing on clean code and efficient architectures.<br>- 🎯 Creando proyectos para mejorar mis habilidades<br>- 🏀 On the court, I'm a basketball player who loves the pressure of the last shot.<br>- 🎮 In my free time, I dive into video games and vibe with some good music 🎧.</p>
+<p align="left">I'm Hubert Hilario G. from Lima, Peru.<br>- 🟢 I'm currently a Software Engineering Student, focusing on clean code and efficient architectures.<br>- 🎯 Creating projects to improve my skills<br>- 🏀 On the court, I'm a basketball player who loves the pressure of the last shot.<br>- 🎮 In my free time, I dive into video games and vibe with some good music 🎧.</p>
 
 ###
 
@@ -53,3 +53,14 @@
 </div>
 
 ###
+
+## 📩 Connect with me
+
+<p align="left">
+  <a href="mailto:hubert-work23@hotmail.com">
+    <img src="https://img.shields.io/badge/Hotmail-333333?style=for-the-badge&labelColor=333333&color=00FF00" alt="Hotmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/hubert-hilario-g">
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&labelColor=333333&color=00FF00" alt="LinkedIn" />
+  </a>
+</p>
