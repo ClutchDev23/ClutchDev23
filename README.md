@@ -53,14 +53,3 @@
 </div>
 
 ###
-
-## 📩 Connect with me
-
-<p align="left">
-  <a href="mailto:hubert-work23@hotmail.com">
-    <img src="https://img.shields.io/badge/Hotmail-333333?style=for-the-badge&logo=microsoft-outlook&logoColor=00FF00" alt="Hotmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn" />
-  </a>
-</p>
