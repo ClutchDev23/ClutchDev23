@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Hubert Hilario (ClutchDev23) 💻🚀</h1>
+<h1 align="center">¡Hola! Soy Hubert Hilario (ClutchDev23) 💻🚀</h1>
 
 <p align="center">
   <a href="mailto:hubbert-work23@gmail.com">
@@ -14,27 +14,34 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Sobre mí
 
 <p align="left">
-  🇵🇪 Software Engineering student from Lima, Peru — I build full-stack apps, Android stuff, and 3D worlds.<br>
-  - ⚙️ Obsessed with clean code, solid architecture, and solutions that scale.<br>
-  - 🧠 I enjoy diving into hard problems — backend, frontend, or 3D — and shipping precise results.<br>
-  - ⚡ Give me a complex problem and a deadline — I'll deliver. Pressure motivates me.<br>
-  - 🎮 Off the keyboard: video games and good music 🎧.
+  🇵🇪 Estudiante de Ingeniería de Software de Lima, Perú — construyo apps full-stack, cosas para Android y mundos 3D.<br>
+  - ⚙️ Obsesionado con código limpio, arquitectura sólida y soluciones que escalen.<br>
+  - 🧠 Disfruto meterme en problemas difíciles — backend, frontend o 3D — y entregar resultados precisos.<br>
+  - ⚡ Dame un problema complejo y una fecha límite — lo entrego. La presión me motiva.<br>
+  - 🎮 Fuera del teclado: video juegos y buena música 🎧.
 </p>
 
-### 📚 Currently
+### 📚 Actualmente
 
 <p align="left">
-  🔭 Working on real-world projects (remote PC control, automation)<br>
-  🌱 Learning software architecture & scalable systems<br>
-  🤝 Open to internships and collaboration on interesting projects
+  🔭 Trabajando en proyectos reales (control remoto de PC, automatización)<br>
+  🌱 Aprendiendo arquitectura de software y sistemas escalables<br>
+  🤝 Abierto a pasantías y colaboraciones en proyectos interesantes
+</p>
+
+### ⚡ Dato curioso
+
+<p align="left">
+  🍜 Mi bug favorito siempre aparece a las 2 AM, cuando ya no queda café.<br>
+  🏆 Récord personal: apagar una laptop desde el celular estando en el bus.
 </p>
 
 ---
 
-<h3 align="center">🛠 Languages and Tools</h3>
+<h3 align="center">🛠 Lenguajes y Herramientas</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
@@ -68,30 +75,30 @@
 
 ---
 
-<h3 align="center">🚀 Featured Projects</h3>
+<h3 align="center">🚀 Proyectos Destacados</h3>
 
 <table align="center">
   <tr>
     <td width="50%">
       <b>🔌 Apagar PC Remoto</b><br>
-      Shut down or restart your laptop from anywhere using mobile data — web (Vercel) + cloud (Supabase) + Python agent, no public IP or open ports needed.<br>
+      Apaga o reinicia tu laptop desde cualquier lugar con datos móviles — web (Vercel) + nube (Supabase) + agente Python, sin IP pública ni puertos abiertos.<br>
       <code>Python</code> <code>JS</code> <code>Supabase</code> <code>Vercel</code>
     </td>
     <td width="50%">
       <b>🎮 3D / Game Dev</b><br>
-      Experiments and playable prototypes built in Unity, exploring 3D environments and interactive experiences.<br>
+      Experimentos y prototipos jugables en Unity, explorando entornos 3D y experiencias interactivas.<br>
       <code>Unity</code> <code>C#</code>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <b>📱 Mobile Apps</b><br>
-      Android projects with Kotlin and Android Studio, from concept to working app.<br>
+      <b>📱 Apps Móviles</b><br>
+      Proyectos Android con Kotlin y Android Studio, del concepto a la app funcionando.<br>
       <code>Kotlin</code> <code>Android Studio</code> <code>Firebase</code>
     </td>
     <td width="50%">
-      <b>🌐 Web Development</b><br>
-      Frontend builds with React and modern HTML/CSS, focused on clean and responsive UIs.<br>
+      <b>🌐 Desarrollo Web</b><br>
+      Frontends con React y HTML/CSS moderno, enfocados en UIs limpias y responsivas.<br>
       <code>React</code> <code>HTML</code> <code>CSS</code>
     </td>
   </tr>
@@ -99,20 +106,28 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📊 Estadísticas de GitHub</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ClutchDev23&show_icons=true&theme=transparent&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=cccccc&ring_color=00FF00" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClutchDev23&layout=compact&theme=transparent&hide_border=true&title_color=00FF00&text_color=cccccc&langs_count=8" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ClutchDev23&show_icons=true&theme=transparent&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=cccccc&ring_color=00FF00" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClutchDev23&layout=compact&theme=transparent&hide_border=true&title_color=00FF00&text_color=cccccc&langs_count=8" alt="Lenguajes principales" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ClutchDev23&style=for-the-badge&color=00FF00&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ClutchDev23&style=for-the-badge&color=00FF00&label=VISITAS+AL+PERFIL" alt="Visitas al perfil" />
 </div>
 
 ---
 
-<h3 align="center">📫 Connect with me</h3>
+<h3 align="center">🏆 Logros</h3>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ClutchDev23&theme=transparent&no-frame=true&no-bg=true&column=7&margin-w=8&row=1" alt="Logros" />
+</div>
+
+---
+
+<h3 align="center">📫 Conecta conmigo</h3>
 
 <p align="center">
   <a href="mailto:hubbert-work23@gmail.com">
@@ -124,5 +139,5 @@
 </p>
 
 <p align="center">
-  <i>“I thrive under pressure — complex problems are my favorite kind.”</i>
+  <i>“La presión es mi zona favorita — los problemas complejos son mi especialidad.”</i>
 </p>
