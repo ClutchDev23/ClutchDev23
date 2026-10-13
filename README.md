@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="250" src="http://imgfz.com/i/H3b8SZh.png"  />
-</div>
+
 
 <h1 align="center">Hey there! I'm Hubert Hilario (ClutchDev23) 💻🚀</h1>
 
