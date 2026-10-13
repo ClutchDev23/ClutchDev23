@@ -35,8 +35,7 @@
 ### ⚡ Dato curioso
 
 <p align="left">
-  🍜 Mi bug favorito siempre aparece a las 2 AM, cuando ya no queda café.<br>
-  🏆 Récord personal: apagar una laptop desde el celular estando en el bus.
+  🍜 Mi bug favorito siempre aparece a las 2 AM, cuando ya no queda café.
 </p>
 
 ---
