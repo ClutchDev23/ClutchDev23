@@ -4,7 +4,7 @@
   <a href="mailto:hubert-work23@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&labelColor=333333&color=00FF00&logo=gmail" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/hubert-hilario-g">
+  <a href="www.linkedin.com/in/hubert-hilario-gómez-b49b48367">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&labelColor=333333&color=00FF00&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/ClutchDev23">
